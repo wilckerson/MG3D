@@ -3,7 +3,7 @@
 This document outlines the licensing strategy for the MG3D project and provides a guide on how to enforce copyright protection.
 
 ## Chosen License: CC BY-NC-SA 4.0
-The MG3D project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+The MG3D project is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
 ### What this license covers:
 1. **Free to Use & Share:** Anyone can download, copy, and redistribute the project files (3D models, code, documentation) in any medium or format.
